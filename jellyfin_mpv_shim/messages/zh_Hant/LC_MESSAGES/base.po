@@ -8357,3 +8357,132 @@ msgstr "選擇陰影設定檔"
 
 #~ msgid "Transcode H265 to H264"
 #~ msgstr "從H.265轉碼至H.264"
+
+msgid "All Genres"
+msgstr "所有類型"
+
+msgid "All Years"
+msgstr "所有年份"
+
+msgid "Always Skip Credits"
+msgstr "永遠跳過片尾"
+
+msgid "Always Skip Intros"
+msgstr "永遠跳過片頭"
+
+msgid "Application Log"
+msgstr "應用程式日誌"
+
+msgid "Application Menu"
+msgstr "應用程式選單"
+
+msgid "Ask to Skip Credits"
+msgstr "詢問是否跳過片尾"
+
+msgid "Ask to Skip Intros"
+msgstr "詢問是否跳過片頭"
+
+msgid "Auto Set Audio/Subtitles (Entire Series)"
+msgstr "自動套用音軌/字幕（整季）"
+
+msgid "Cancel this recording?"
+msgstr "取消這個錄影？"
+
+msgid "Connect to a server to change these settings."
+msgstr "連線到伺服器後才能更改這些設定。"
+
+msgid "Could not add server.\nPlease check your connection information."
+msgstr "無法新增伺服器。\n請檢查你的連線資訊。"
+
+msgid "Could not copy the text."
+msgstr "無法複製文字。"
+
+msgid "Could not load your display settings."
+msgstr "無法載入你的顯示設定。"
+
+msgid "Could not save your display settings."
+msgstr "無法儲存你的顯示設定。"
+
+msgid "Cover size and interface scale require a restart."
+msgstr "封面大小與介面縮放需要重新啟動。"
+
+msgid "Discord Rich Presence. Takes effect after a restart."
+msgstr "Discord Rich Presence，重新啟動後生效。"
+
+msgid "Display"
+msgstr "顯示"
+
+msgid "Display Mirroring"
+msgstr "螢幕鏡射"
+
+msgid "Display settings saved."
+msgstr "顯示設定已儲存。"
+
+msgid "Fail"
+msgstr "失敗"
+
+msgid "Home Screen Layout"
+msgstr "首頁版面配置"
+
+msgid "Interface scale requires a restart."
+msgstr "介面縮放需要重新啟動。"
+
+msgid "Latest %s"
+msgstr "最新 %s"
+
+msgid "MPV UI with thumbnails"
+msgstr "附縮圖的 MPV UI"
+
+msgid "MPV built-in default"
+msgstr "MPV 內建預設"
+
+msgid "Make each wheel notch jump exactly one row (or one home-screen section) instead of gliding. Turn this on if you prefer the older stepped scrolling."
+msgstr "滾輪每格固定捲動一列（或首頁一個版塊），不做平滑捲動。偏好舊式分段捲動可開啟。"
+
+msgid "Mark Unwatched"
+msgstr "標記為未觀看"
+
+msgid "Ok"
+msgstr "確定"
+
+msgid "Overrides the theme's cover size. Takes effect after a restart."
+msgstr "覆蓋主題的封面大小，重新啟動後生效。"
+
+msgid "Password:"
+msgstr "密碼:"
+
+msgid "Requires restart to change. MPV keybinds are used by default. Press ENTER to drive the player controls by keyboard."
+msgstr "修改後需重新啟動。預設使用 MPV 按鍵綁定；按下 ENTER 可用鍵盤操控播放器。"
+
+msgid "Select your media in Jellyfin and play it here"
+msgstr "在 Jellyfin 中選擇你的媒體，並在此播放"
+
+msgid "Server Configuration"
+msgstr "伺服器設定"
+
+msgid "Server:"
+msgstr "伺服器:"
+
+msgid "Some changes take effect after restarting."
+msgstr "部分變更會在重新啟動後生效。"
+
+msgid "SyncPlay Enabled"
+msgstr "已啟用 SyncPlay"
+
+msgid "The layout could not be loaded from your server."
+msgstr "無法從伺服器載入版面配置。"
+
+msgid "These sections are stored on your server and shared with Jellyfin Web."
+msgstr "這些版塊存放在你的伺服器上，與 Jellyfin 網頁端共用。"
+
+msgid "Transcode H265 to H264"
+msgstr "將 H.265 轉碼為 H.264"
+
+msgid "Use JellyScrub thumbnails"
+msgstr "使用 JellyScrub 縮圖"
+
+msgid "Username:"
+msgstr "使用者名稱:"
+
+msgid "“Auto” shapes the tiles from the artwork itself."
+msgstr "「自動」會依圖片本身調整圖塊形狀。"
