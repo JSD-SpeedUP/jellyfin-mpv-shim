@@ -7888,3 +7888,21 @@ msgstr "选择着色器配置预设"
 
 #~ msgid "Transcode H265 to H264"
 #~ msgstr "将 H.265 转码为 H.264"
+
+msgid "Always Skip Credits"
+msgstr "总是跳过片尾"
+
+msgid "Ask to Skip Credits"
+msgstr "询问是否跳过片尾"
+
+msgid "Application Menu"
+msgstr "应用菜单"
+
+msgid "Fail"
+msgstr "失败"
+
+msgid "MPV built-in default"
+msgstr "MPV 内置默认"
+
+msgid "Ok"
+msgstr "确定"
